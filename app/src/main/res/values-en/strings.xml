@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="user">User</string>
+    <string name="name">Name</string>
+    <string name="search">Search</string>
+    <string name="username">Username</string>
+    <string name="isi_username">username</string>
+    <string name="isi_nama">name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_follower_fragment">Ini Fragment Follower</string>
+    <string name="content_fragment_following">Ini Fragment Following</string>
+    <string name="title_follower">Follower</string>
+    <string name="title_following">Following</string>
+    <string name="username_follower">username follower</string>
+    <string name="username_following">username following</string>
+    <string name="colon">:</string>
+    <string name="progress">Wait ...</string>
+    <string name="title">Github User App</string>
+    <string name="search_user">Search User</string>
+    <string name="location">Location</string>
+    <string name="isi_location">Location fill</string>
+    <string name="change_language_setting">Change Language</string>
+    <string name="about_me">About Me</string>
+    <string name="detail_user">Detail User</string>
+    <string name="about">About</string>
+</resources>
